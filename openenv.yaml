@@ -1,0 +1,3 @@
+name: EduNexoraEnv
+version: "1.0.0"
+description: "OpenEnv RL environment for educational analytics — student performance analysis, syllabus tracking, and early intervention."
